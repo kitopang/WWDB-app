@@ -1,4 +1,4 @@
-# wherewedroppingboys
+# Where We Dropping Boys (WWDB) V2
 
 Android App to help Fortnite users find an optimal or random landing spot on the map. Provides optimal landing spot based on number of chests and resources. 
 
